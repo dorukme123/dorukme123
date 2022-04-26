@@ -11,7 +11,8 @@ i am currently a student studying Computer science and Mathematics.
 в настоящее время я учусь на компьютерные науки и математика.
 
 Skills: 
-* CPP / JAVA
+- ![C++](https://via.placeholder.com/15/f03c15/000000?text=+) `C++`
+- ![Java](https://via.placeholder.com/15/f03c15/000000?text=+) `Java`
 
 #### 🔭 I’m currently working on Some java projects 
 
