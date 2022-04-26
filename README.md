@@ -5,14 +5,11 @@
 
 
 
-i am currently a student studying Computer science and Mathematics.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+i am currently studying Computer science and Mathematics.
  
-в настоящее время я учусь на компьютерные науки и математика.
-
 Skills: 
-- ![C++](https://via.placeholder.com/15/f03c15/000000?text=+) `C++`
-- ![Java](https://via.placeholder.com/15/f03c15/000000?text=+) `Java`
+- ![C++](https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/icons8-c++-48.png?raw=true) 
+- ![Java](https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/icons8-java-48.png?raw=true) 
 
 #### 🔭 I’m currently working on Some java projects 
 
