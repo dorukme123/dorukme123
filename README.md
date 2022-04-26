@@ -1,6 +1,6 @@
 ![I did not really think what branch to choose](https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/Comp%201.gif?raw=true)
 
-### Hi wlcome to my page!
+### Hi welcome to my page!
 #### I did not really think what branch to choose but i think im going to be an Айтишник (IT specialist).
 
 
