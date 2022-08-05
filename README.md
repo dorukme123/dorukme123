@@ -1,4 +1,4 @@
-![I did not really think what branch to choose](https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/Comp%201.gif?raw=true)
+![placeholder](https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/Comp%201.gif?raw=true)
 
 ## Hi welcome to my page!
 
