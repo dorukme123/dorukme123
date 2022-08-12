@@ -14,7 +14,7 @@
    <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/icons8-java-48.png?raw=true" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Java">&nbsp&nbsp|&nbsp&nbspJava</a>
   </li>
   <li>
-   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/frontend.png" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Webdev-Learning/tree/main/Projects">&nbsp&nbsp|&nbsp&nbspWebDev</a>
+   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/frontend.png" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Webdev-Learning/tree/main">&nbsp&nbsp|&nbsp&nbspWebDev</a>
     <ul>
        <li>
           <p float="left">
