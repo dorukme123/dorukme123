@@ -25,6 +25,19 @@
        </li>
     </ul>
   </li>
+  <--! Python -->
+  <li>
+   <img src="" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Python_projects">&nbsp&nbsp|&nbsp&nbspPython</a>
+    <ul>
+       <li>
+          <p float="left">
+             P:
+             <img src="" width="24" height="24"/>
+             <--! Add here -->
+          </p> 
+       </li>
+    </ul>
+  </li>
  </ul>
 </div>
 
