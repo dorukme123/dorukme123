@@ -31,15 +31,6 @@
   <!-- Python -->
   <li>
    <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/python.png" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Python_projects">&nbsp&nbsp|&nbsp&nbspPython</a>
-    <ul>
-       <li>
-          <p float="left">
-             
-             
-             <!-- Add here -->
-          </p> 
-       </li>
-    </ul>
   </li>
  </ul>
 </div>
