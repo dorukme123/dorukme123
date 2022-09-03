@@ -30,12 +30,12 @@
   </li>
   <!-- Python -->
   <li>
-   <img src="" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Python_projects">&nbsp&nbsp|&nbsp&nbspPython</a>
+   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/python.png" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Python_projects">&nbsp&nbsp|&nbsp&nbspPython</a>
     <ul>
        <li>
           <p float="left">
              P:
-             <img src="" width="24" height="24"/>
+             <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/python.png" width="24" height="24"/>
              <!-- Add here -->
           </p> 
        </li>
