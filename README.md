@@ -34,8 +34,8 @@
     <ul>
        <li>
           <p float="left">
-             P:
-             <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/python.png" width="24" height="24"/>
+             
+             
              <!-- Add here -->
           </p> 
        </li>
