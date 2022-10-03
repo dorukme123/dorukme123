@@ -35,7 +35,7 @@
  </ul>
 </div>
 
-#### 🔭 At the time working on Some [WebDev](https://github.com/dorukme123/Webdev-Learning/tree/main/Projects/hovernav)
+#### 🔭 At the time working on Some [Python Projects](https://github.com/dorukme123/python)
 #### 2D RPG Game [->](https://github.com/dorukme123/Java/tree/main/2drpggame) Disabled 
 
 
