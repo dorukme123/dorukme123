@@ -36,12 +36,6 @@
 </div>
 
 #### 🔭 At the time working on Some [Python Projects](https://github.com/dorukme123/Python_projects)
-#### 2D RPG Game [->](https://github.com/dorukme123/Java/tree/main/2drpggame) Disabled 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dorukme123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/duirel)  
-
-
-![Profile views](https://gpvc.arturio.dev/dorukme123)
-![codewars](https://www.codewars.com/users/dorukme123/badges/micro)
