@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/Comp%201.gif?raw=true" width="600px" alt="Retro Computer Animation" />
   
-  <h1 align="center">Hi, I'm <a href="https://github.com/dorukme123" target="_blank">Your Name</a>! 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://github.com/dorukme123" target="_blank">dorukme123</a>! 👋</h1>
   
   <h3 align="center">🚀 A passionate Developer / Engineer / Student</h3>
 </div>
