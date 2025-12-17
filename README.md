@@ -3,7 +3,7 @@
   
   <h1 align="center">Hi, I'm <a href="https://github.com/dorukme123" target="_blank">Your Name</a>! 👋</h1>
   
-  <h3 align="center">🚀 A passionate Developer / Engineer / Student from [Your Location]</h3>
+  <h3 align="center">🚀 A passionate Developer / Engineer / Student</h3>
 </div>
 
 ---
