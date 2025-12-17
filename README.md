@@ -1,41 +1,44 @@
-![placeholder](https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/Comp%201.gif?raw=true)
-
-## Hi welcome to my page!
-
-
-<h4>i am currently studying Computer science and Mathematics</h3>
-<div>
- <h5>&nbsp&nbsp-&nbsp&nbspSkills&nbsp&nbsp:</h5>
- <ul float="left">
-  <!-- C++ -->
-  <li>
-   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/icons8-c++-48.png?raw=true" witdh="36" height="36"/> <a href="https://github.com/dorukme123/cpp">&nbsp&nbsp|&nbsp&nbspC++</a>
-  </li>
-  <!-- Java -->
-  <li>
-   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/icons8-java-48.png?raw=true" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Java">&nbsp&nbsp|&nbsp&nbspJava</a>
-  </li>
-  <!-- Webdev -->
-  <li>
-   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/frontend.png" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Webdev-Learning/tree/main">&nbsp&nbsp|&nbsp&nbspWebDev</a>
-    <ul>
-       <li>
-          <p float="left">
-             <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/html.png" width="24" height="24"/>
-             <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/css.png" width="24" height="24"/> 
-             <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/js.png" width="24" height="24"/>
-          </p> 
-       </li>
-    </ul>
-  </li>
-  <!-- Python -->
-  <li>
-   <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/Лаб-01/python.png" witdh="36" height="36"/> <a href="https://github.com/dorukme123/Python_projects">&nbsp&nbsp|&nbsp&nbspPython</a>
-  </li>
- </ul>
+<div align="center">
+  <img src="https://github.com/dorukme123/Computer-Architecture-Class/blob/main/%D0%9B%D0%B0%D0%B1-01/images/Comp%201.gif?raw=true" width="600px" alt="Retro Computer Animation" />
+  
+  <h1 align="center">Hi, I'm <a href="https://github.com/dorukme123" target="_blank">Your Name</a>! 👋</h1>
+  
+  <h3 align="center">🚀 A passionate Developer / Engineer / Student from [Your Location]</h3>
 </div>
 
-#### 🔭 At the time working on Some [Python Projects](https://github.com/dorukme123/Python_projects)
+---
 
+### ⚡ About Me
 
+- 🔭 I’m currently working on **Actiminds**
+- 🌱 I’m currently learning **ML**
 
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorukme123&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorukme123&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <p><i>Thanks for visiting!</i></p>
+</div>
