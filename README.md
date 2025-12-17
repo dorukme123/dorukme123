@@ -30,10 +30,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorukme123&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorukme123&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </div>
